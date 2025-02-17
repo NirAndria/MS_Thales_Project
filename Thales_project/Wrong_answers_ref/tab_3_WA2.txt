@@ -1,0 +1,1 @@
+The image displays two tables, each containing five columns. Both tables share three columns: Key1, Key2, and Key3. By performing a left join on Key1 and Key2 from both tables and calculating the sums of Value1 and Value2 for matching Key1 and Key2 pairs, the mean value for Key1 = 15 and Key2 = 120 would be 75.

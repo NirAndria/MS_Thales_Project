@@ -1,0 +1,1 @@
+The graph presents years on the horizontal axis and global temperature anomalies on the vertical axis, derived from four sources: HadCRUT5, GISTEMP, NOAA, ECMWF, and Berkeley Earth.  Although temperature anomalies show considerable variation across all indices, an overall rise is apparent. This upward trend has become particularly prominent since 1975.

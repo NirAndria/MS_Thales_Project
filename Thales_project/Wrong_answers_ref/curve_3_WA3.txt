@@ -1,0 +1,1 @@
+The graph presents decades on the horizontal axis and local temperature fluctuations on the vertical axis, derived from three sources: NASA, METAR, and NOAA. Although temperature fluctuations are relatively stable across all indices, an overall decline is evident. This downward trend has been especially noticeable since 1980.

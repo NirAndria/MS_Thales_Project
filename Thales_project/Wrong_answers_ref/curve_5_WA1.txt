@@ -1,0 +1,1 @@
+The loss function for the test set exceeds 10 at epoch 8, while the classifier's accuracy for the test set remains below 0.08 at the same epoch.

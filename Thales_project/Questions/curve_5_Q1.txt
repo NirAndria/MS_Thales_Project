@@ -1,0 +1,1 @@
+What is the classifier's accuracy for the test set at epoch 80? And what is the value of the loss function for this same test set?

@@ -1,0 +1,1 @@
+The table shows the results of two regression models: one with OPM as the dependent variable and the other with ROTA. Both models utilize the same 5 explanatory variables. For the regression with ROTA as the dependent variable, five variables are identified as significant. Among them, none reach significance at the 5% confidence level.

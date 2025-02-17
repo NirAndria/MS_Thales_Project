@@ -1,0 +1,1 @@
+The graph shows months on the horizontal axis and local rainfall levels on the vertical axis according to three sources: NASA, METAR, and NOAA.  For all data sources, rainfall levels are remarkably stable. However, it is clear that, overall, rainfall levels have been decreasing over the years. Additionally, we can observe that this decrease has been more significant since 1980.

@@ -1,0 +1,1 @@
+The image displays two tables, each containing three columns. Both tables share two columns: Key1 and Key2.  By performing an inner join on Key1 and Key2 from both tables and calculating the averages of Value1 and Value2 for matching Key1 and Key2 pairs, the mean value for Key1 = 10 and Key2 = 110 would be 25.

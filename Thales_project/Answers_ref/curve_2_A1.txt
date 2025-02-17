@@ -1,0 +1,3 @@
+The graph shows time in milliseconds on the horizontal axis and voltage in volts on the vertical axis.
+
+The voltage remains at 0 until 52 ms, then it rises sharply, reaching 1.75 volts at 62 ms. Subsequently, the voltage drops to -0.9 volts at 70 ms before gradually increasing again to reach 0 volts, where it remains constant.

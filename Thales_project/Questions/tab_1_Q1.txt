@@ -1,0 +1,1 @@
+With a degrees of freedom equal to 10 and a test value equal to 20, is the test significant at a 5% significance level?

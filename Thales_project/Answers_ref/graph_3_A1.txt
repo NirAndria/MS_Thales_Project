@@ -1,0 +1,3 @@
+The graph, dating from 2015, shows the mastery of skills by job position in Data Science. The graph presents skills in mathematics, statistics, technology, and programming.
+
+We can observe that researchers have higher skills in mathematics and statistics compared to the other jobs presented here. Their skills in technology and programming are not very developed, and their least developed skill is cloud management.

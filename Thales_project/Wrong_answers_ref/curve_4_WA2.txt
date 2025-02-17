@@ -1,0 +1,2 @@
+The choice of a learning rate of \(10^{-2}\) results in a model that shows only modest progress. While the loss curves for both the training and test sets do eventually trend downwards, they do so at a slower pace. By iteration 18, the model has yet to dip below a loss of 0.8, suggesting slower convergence. The discrepancy between the training and test losses hints at some instability and limited generalization, but the model is not completely ineffective.
+

@@ -1,0 +1,4 @@
+
+The graph shows years on the horizontal axis and global temperature anomalies on the vertical axis according to four measurements: HadCRUT5, GISTEMP, NOAA, ECMWF, and Berkeley Earth.
+
+For all measurement indices, global temperature anomalies are fairly volatile. However, it is clear that, overall, temperature anomalies have been increasing over the years. Additionally, we can observe that this increase has been more pronounced since 1975.

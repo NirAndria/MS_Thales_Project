@@ -1,0 +1,1 @@
+By the 8th epoch, the loss for the test set skyrockets to over 10, while the classifier struggles with an accuracy of just 0.08 on the test data.

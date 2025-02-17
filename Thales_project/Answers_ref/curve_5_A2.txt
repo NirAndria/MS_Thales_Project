@@ -1,0 +1,1 @@
+At epoch 80, the loss function for the test set drops below 0.1. Simultaneously, the classifier's accuracy on the test set improves to 0.8.

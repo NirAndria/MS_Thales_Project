@@ -1,0 +1,2 @@
+The image presents two tables, each with three columns. The tables have two common columns: Key1 and Key2.
+If we performed an inner join considering the columns Key1 and Key2 from both tables and averaged Value1 and Value2 for the same pairs of Key1 and Key2, the mean column for Key1 = 10 and Key2 = 110 would be 25.

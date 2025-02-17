@@ -1,0 +1,5 @@
+The graph shows the distribution of the White House budget by agency during the year 2020. The amounts are expressed in billions of dollars.
+
+We can observe that the majority of the budget is allocated to mandatory spending ($2.841 trillion) and the United States Department of Defense ($750 billion).
+
+According to this graph, $12.50 billion was allocated to the U.S. Department of the Interior, which represents 3.76% of the total budget.

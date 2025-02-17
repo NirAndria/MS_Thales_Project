@@ -1,0 +1,3 @@
+The table presents the results of two regressions. One of the regressions considers ROTA as the dependent variable, while the other considers OPM as the dependent variable. Both models have the same explanatory variables, which number 10.
+
+The model considering OPM as the dependent variable includes two significant variables. However, only the variable Dg is significant at a 5% confidence level.

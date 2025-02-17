@@ -1,0 +1,1 @@
+If we performed an inner join considering the columns Key1 and Key2 from both tables and averaged the values with the same pairs of Key1 and Key2, what would the mean column value be for Key1 = 10 and Key2 = 110?

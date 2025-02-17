@@ -1,0 +1,29 @@
+
+
+Psychrometric Diagram: 
+Question: Can you determine and explain the change in the state of air between two specific points: a starting point at 5°C and 70% relative humidity, and an ending point where the air temperature is increased to 20°C without any change in relative humidity?  
+Reference Text: The described process involves heating air from 5°C to 20°C while maintaining a constant relative humidity of 70%. Starting from these two points on the psychrometric chart, it is evident that the absolute humidity remains constant since relative humidity does not change, implying no variation in latent energy. The sensible energy variation, on the other hand, is directly related to the temperature increase. Hence, sensible energy increases with the rise in air temperature, while latent energy remains null as humidity has not changed. Total enthalpy, which is the sum of sensible and latent energy, corresponds only to the variation in sensible energy in this case. In summary, this process represents isohumid heating, where the added thermal energy only serves to increase the temperature without affecting the air's humidity.
+
+---
+
+Classifier:  
+Question: What is the classifier's accuracy for the test set at epoch 80? And what is the value of the loss function for this same test set?  
+Reference Text: The loss function for the test set reaches a value below 0.1 at epoch 80. Additionally, at the same epoch, the classifier's accuracy for the test set reaches 0.8.
+
+---
+
+Energy Consumption per Capita: 
+Question: Which African countries have energy consumption between 1,000 kWh and 10,000 kWh and access to clean cooking fuels below 40%, ordered by descending population?  
+Reference Text: Nigeria, with the tuple (population, energy consumption, clean cooking access), is (223 million, 4,400 kWh, 18%), followed by Mozambique with (100 million, 4,000 kWh, 5%), and finally the Congo with (80 million, 4,100 kWh, 37%).
+
+---
+
+Model Trained with Different Learning Rates:  
+Question: Can you confirm which model has the best stability? How does this influence the convergence of losses for training and test data?  
+Reference Text: The best model is the one with a learning rate of \(10^{-2}\), as the loss curves for both training and test sets rapidly converge to zero. This model achieves a loss below 0.8 as early as iteration 18, demonstrating efficient convergence and good generalization. Moreover, the training and test loss curves are very close, indicating a small difference between the two sets and better model stability.
+
+---
+
+Table: 
+Question:Combine information in both tables into a single markdown table.  
+You can share the tables to provide further clarification.

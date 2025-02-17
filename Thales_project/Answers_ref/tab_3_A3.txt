@@ -1,0 +1,1 @@
+The image shows two tables with three columns each, where Key1 and Key2 are common columns between the two tables.  If we execute an inner join based on Key1 and Key2 and compute the average of Value1 and Value2 for identical Key1 and Key2 pairs, the resulting mean for Key1 = 10 and Key2 = 110 would equal 25.

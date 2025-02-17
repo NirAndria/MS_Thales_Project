@@ -1,0 +1,1 @@
+Can you confirm which model has the best stability? How does this influence the convergence of losses for training and test data?

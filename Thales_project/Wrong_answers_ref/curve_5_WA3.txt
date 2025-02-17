@@ -1,0 +1,1 @@
+The test set loss decreases to below 0.1 by the 80th epoch, and the classifier's accuracy for the test set reaches a solid 0.8.
