@@ -1,0 +1,10 @@
+The graph represents a network with weak interactions, where most groups function separately with little engagement between them. Each node corresponds to a participant, while the arrows indicate one-way communication. The different colors categorize various groups, and the meaning of the arrows is as follows:
+
+Blue arrows symbolize arguments and conflicts.
+Gray arrows denote irrelevant or unimportant discussions.
+Red arrows highlight positive and meaningful interactions.
+By analyzing the structure, Group 1 (yellow) appears to be the most engaged, as it has the fewest connections, meaning it is responsible for directing discussions without interference from other groups. Since there are no visible blue arrows near Group 1, this confirms that it remains uninvolved in conflicts and is the most influential group in the network.
+
+In contrast, Group 7 (green) seems to be the least relevant, as it is surrounded by numerous arrows, indicating excessive and unnecessary interaction with other groups.
+
+

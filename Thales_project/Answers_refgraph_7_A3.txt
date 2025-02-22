@@ -1,0 +1,3 @@
+The red curve is the saturation line, showing the conditions under which air is at its dew point for various temperatures and humidity levels.
+
+

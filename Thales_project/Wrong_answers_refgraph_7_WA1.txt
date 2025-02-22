@@ -1,0 +1,3 @@
+The red curve shows the dry bulb temperature of the air. This is incorrect as the red curve is related to saturation conditions, not just temperature.
+
+

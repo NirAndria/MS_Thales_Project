@@ -1,0 +1,1 @@
+Mozambique, with the tuple (population, energy consumption, clean cooking access), is (5 million, 40,000 kWh, 95%), followed by the Congo with (8 million, 41,000 kWh, 63%), and finally Nigeria with (22 million, 44,000 kWh, 82%).
