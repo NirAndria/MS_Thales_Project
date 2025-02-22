@@ -1,0 +1,4 @@
+Regional Integration: The network structure reveals whether regions remain isolated 
+or interwoven. A well-connected network with inter-regional ties suggests strong 
+integration, whereas segregated clusters might indicate barriers to cross-regional 
+collaboration.

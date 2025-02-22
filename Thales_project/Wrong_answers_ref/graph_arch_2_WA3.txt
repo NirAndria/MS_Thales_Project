@@ -1,0 +1,2 @@
+Hecataeus is an AI-driven predictive modeling tool that forecasts stock market trends
+based on real-time financial data and economic indicators.

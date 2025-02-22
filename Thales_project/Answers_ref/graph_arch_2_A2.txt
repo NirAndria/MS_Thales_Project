@@ -1,0 +1,7 @@
+Hecataeus is a schema visualization tool that helps in understanding database 
+relationships and optimizing performance. The image shows a schema similar to TPC-H, 
+where key tables like CUSTOMER, ORDERS, and SUPPLIER are connected. The tool assists 
+in detecting inefficient joins, optimizing indexing, and ensuring proper normalization.
+ By analyzing dependencies, database administrators can enhance query speed and reduce 
+unnecessary data duplication. Indexing frequently used joins and partitioning large
+ tables like ORDERS and LINEITEM can improve performance for analytical queries.

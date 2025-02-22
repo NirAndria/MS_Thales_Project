@@ -1,0 +1,3 @@
+The image represents a social media network where nodes are users,
+ and edges indicate friendships and interactions between them. 
+The tool helps in analyzing social network trends and user behaviors.

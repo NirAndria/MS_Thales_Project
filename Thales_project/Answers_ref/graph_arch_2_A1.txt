@@ -1,0 +1,9 @@
+Schema Analysis & Query Optimization with Hecataeus:
+Hecataeus allows database administrators to explore dependencies between entities, 
+such as how CUSTOMER connects to ORDERS, which in turn links to SUPPLIER and PART.
+By visualizing relationships, users can identify potential query bottlenecks, such 
+as costly joins between large tables.
+The tool can also help in assessing indexing strategies, suggesting appropriate 
+indexes for frequently joined tables to speed up query performance.
+Additionally, it can highlight redundant relationships or unnecessary denormalization,
+ which may negatively impact storage and query efficiency.

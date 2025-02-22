@@ -1,0 +1,3 @@
+This visualization is from a cybersecurity tool that maps network vulnerabilities 
+and identifies possible attack paths in an enterprise system. 
+It is primarily used for threat detection.

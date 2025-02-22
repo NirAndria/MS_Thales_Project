@@ -1,0 +1,4 @@
+Information Flow: The presence of highly connected nodes, such as p9,
+ suggests that certain participants act as key conduits for disseminating
+ information across regions. If these central nodes actively engage in discussions, 
+they can facilitate knowledge sharing between different geographic areas

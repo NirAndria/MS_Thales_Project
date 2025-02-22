@@ -1,0 +1,9 @@
+The difference of the values in column B for the years 2011 to 2015 is not 72896. 
+This difference is not obtained by subtracting the following values: 7872 (2011), 
+18955 (2012), 10404 (2013), 16970 (2014), and 18695 (2015). When contrasting these
+ values to the other columns for the same period, it is not observed that column B
+ generally has lower values than columns A and C, but higher values than column D.
+These data are not crucial for financial or operational analysis, as they do not 
+indicate trends or specific performances over time. For example, a decrease or 
+increase in values in column B would not reflect changes in the company's strategies 
+or market conditions.

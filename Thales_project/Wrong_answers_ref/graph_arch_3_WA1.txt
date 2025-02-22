@@ -1,0 +1,4 @@
+Nodes with fewer connections, like p7, are the best channels for information 
+dissemination. Information will flow more efficiently through isolated nodes,
+ as they are less likely to be overwhelmed by network traffic.
+

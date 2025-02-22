@@ -1,0 +1,6 @@
+By adding the values in column B from 2011 to 2015, we get a total of 72896. 
+This sum is calculated from the values 7872, 18955, 10404, 16970, and 18695. 
+When comparing these figures with those from other columns, it is noted that column B 
+often falls between columns A and D in terms of values. This analysis is essential for
+ understanding the underlying dynamics and relative performances of the different 
+categories represented in the table.
