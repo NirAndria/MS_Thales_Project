@@ -1,0 +1,3 @@
+The graph contrasts the ozone loss percentages in the Antarctic and Arctic regions over the period from 1988 to 2020. The Antarctic region, represented by red squares, consistently shows higher ozone loss percentages, typically ranging between 40% and 55%, with relatively stable values and minor fluctuations. In contrast, the Arctic region, depicted by blue circles, exhibits more variability, with ozone loss percentages fluctuating significantly between approximately 5% and 35%. This indicates that while the Antarctic ozone loss is more stable and severe, the Arctic experiences more erratic changes in ozone depletion.
+
+

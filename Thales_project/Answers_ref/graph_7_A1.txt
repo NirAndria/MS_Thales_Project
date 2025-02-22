@@ -1,0 +1,3 @@
+The red curve represents the relationship between temperature and enthalpy for saturated air. It shows the conditions at which air is fully saturated with moisture.
+
+
